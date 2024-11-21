@@ -23,3 +23,18 @@ This project creates an exam scheduling planner for a given list of exams and th
 - After generating the graph, you can **download the graph** as an image by clicking on **"Save the Graph"**. This will allow you to keep a visual representation of the exam schedule and relations.
 
 ### Example
+
+<img src="Images/res1.png" width="600"/>
+<img src="Images/res2.png" width="600"/>
+<img src="Images/res3.png" width="600"/>
+<img src="Images/res4.png" width="600"/>
+
+
+## Contributing
+
+We welcome contributions! Please feel free to submit issues or pull requests. If you have any questions or need support, feel free to reach out. We welcome any contributions that enhance the project's scope and impact.
+
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
