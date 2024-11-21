@@ -24,10 +24,10 @@ This project creates an exam scheduling planner for a given list of exams and th
 
 ### Example
 
-<img src="Images/res1.png" width="600"/>
-<img src="Images/res2.png" width="600"/>
-<img src="Images/res3.png" width="600"/>
-<img src="Images/res4.png" width="600"/>
+<img src="Images/res1.png" width="1000"/>
+<img src="Images/res2.png" width="1000"/>
+<img src="Images/res3.png" width="1000"/>
+<img src="Images/res4.png" width="1000"/>
 
 
 ## Contributing
