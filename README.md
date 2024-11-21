@@ -22,7 +22,7 @@ This project creates an exam scheduling planner for a given list of exams and th
 ### Step 3: Download the Graph
 - After generating the graph, you can **download the graph** as an image by clicking on **"Save the Graph"**. This will allow you to keep a visual representation of the exam schedule and relations.
 
-### Example
+## Example
 
 <img src="Images/res1.png" width="1000"/>
 <img src="Images/res2.png" width="1000"/>
